@@ -169,7 +169,8 @@ with a download option. No LangChain logic here.
 
 > A walkthrough of Reviewly AI reviewing a Python performance issue.
 
-https://github.com/MuhammadUsman-Khan/Reviewly-AI/blob/main/demo.mp4
+
+https://github.com/user-attachments/assets/3fd6be26-bcb0-49d1-90d6-eeef72bc9b30
 
 ---
 
@@ -181,6 +182,10 @@ https://github.com/MuhammadUsman-Khan/Reviewly-AI/blob/main/demo.mp4
 - [ ] Support multiple files in one review session
 - [ ] Deploy to Streamlit Cloud for public access
 - [ ] Add token usage tracker to monitor API consumption
+
+
+
+
 
 ---
 
